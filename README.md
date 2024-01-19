@@ -1,1 +1,1 @@
-# react-project-bakery
+To start the aplication run "$env:NODE_OPTIONS = "--openssl-legacy-provider"" on the terminal then "npm start"
